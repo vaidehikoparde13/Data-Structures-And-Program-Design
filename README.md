@@ -10,7 +10,7 @@ The program is designed to handle stock-related data fetched from multiple CSV f
 5) List stocks by performance.
 6) Find average of average stock values within a date range.
 
-## Flight Management Platform (DSPD_II_Assignment1_LinkedLists)
+## Flight Management Platform (DSPD_II_Assignment1_LinkedLists and DSPD_II_Assignment1_Trees)
 This program implements an in-air flight-management platform for an air-traffic control (ATC) system. It features a digital dashboard for managing in-air flights, utilizing a linked list-based database organized in 60-minute intervals based on expected time of arrival (ETA).
 The system maintains an active database of flight buckets, sorted by ETA intervals. Each bucket contains a unique identifier, the start and end times of the ETA interval, and a database of flight-plans. Flight-plans consist of a flight ID, actual departure time, and ETA.
 Key functions provided are:
